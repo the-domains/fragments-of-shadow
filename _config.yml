@@ -1,0 +1,28 @@
+name: Fragments of Shadow
+favicon: null
+layout_spectrum: 0.9622448361478746
+typography_spectrum: 0.15401705773547292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.43743906053714454
+  lightness: 0.3651461696717888
+  saturation: 0.37675629393197596
+  rhythmicContrast: 0.5415609215851873
+purpose: []
